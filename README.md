@@ -82,6 +82,13 @@ End-to-end analytics project focused on retail sales performance, profitability 
 
 ---
 
+## 📈 GitHub Stats
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-pandey-data&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-pandey-data&layout=compact&hide_border=true)
+
+
 ## 📬 Contact
 
 * 📧 Email: [adityapandey12391@gmail.com](mailto:adityapandey12391@gmail.com)
