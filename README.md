@@ -6,24 +6,28 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-* Data & Business Analyst with a background in Physical Therapy and Retail
-* Skilled in Python data cleaning, SQL analysis, dashboarding, and business insight generation
-* Experienced in building end-to-end analytics projects from raw data to final dashboards
-* Open to Data Analyst and Business Analyst opportunities
+* 📊 Data & Business Analyst with a background in Physical Therapy and Retail
+* 🧹 Skilled in Python data cleaning, preprocessing, exploratory data analysis, and business insight generation
+* 🗄️ Experienced in SQL for querying, KPI analysis, and business reporting
+* 📈 Experienced in building interactive dashboards using Tableau and Power BI
+* 🤖 Currently strengthening my machine learning fundamentals, including regression, classification, A/B testing, and model evaluation
+* 🚀 Experienced in building end-to-end analytics projects from raw data to final dashboards
+* 🌍 Open to Data Analyst and Business Analyst opportunities
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-| Category               | Tools                     |
-| ---------------------- | ------------------------- |
-| Programming & Querying | SQL, Python, R            |
-| BI & Visualization     | Tableau, Power BI, Looker |
-| Spreadsheets           | Excel, Google Sheets      |
-| Data Analysis          | Pandas, NumPy             |
-| Databases              | MySQL, PostgreSQL         |
+| Category                   | Tools                       |
+| -------------------------- | --------------------------- |
+| 💻 Programming & Querying  | SQL, Python, R              |
+| 📊 BI & Visualization      | Tableau, Power BI, Looker   |
+| 📑 Spreadsheets            | Excel, Google Sheets        |
+| 🧠 Data Analysis & ML      | Pandas, NumPy, Scikit-learn |
+| 🗄️ Databases              | MySQL, PostgreSQL           |
+| 📉 Visualization Libraries | Matplotlib, Seaborn         |
 
 ---
 
@@ -31,47 +35,53 @@
 
 ### 🔄 Customer Churn Analysis & Revenue Impact
 
-End-to-end analytics project focused on identifying customer churn drivers, high-risk segments, and revenue loss impact.
+End-to-end analytics project focused on identifying customer churn drivers, high-risk customer segments, and revenue loss impact.
 
-**Workflow**
+#### 📌 Workflow
 
 * Cleaned and preprocessed raw customer data using Python
 * Performed SQL analysis to identify churn patterns and revenue impact
-* Built Tableau dashboards to present churn insights and business recommendations
+* Built Tableau dashboards to present business insights and recommendations
 
-**Key Insights**
+#### 📈 Key Insights
 
 * Identified month-to-month contract customers as a high churn-risk segment
-* Analyzed churn by internet type, age group, satisfaction score, and payment method
-* Measured revenue loss from churned customers and highlighted high CLTV churn cases
-* Identified major churn reasons including competitor offers, service attitude, dissatisfaction, and price
+* Analyzed churn trends by internet type, age group, satisfaction score, and payment method
+* Measured revenue loss caused by churned customers
+* Identified high CLTV churned customers and major churn reasons
+* Highlighted business risk categories related to competitor offers, pricing, and customer service
 
-**Tools:** Python, SQL, Tableau, Pandas, NumPy
+#### 🛠️ Tools Used
+
+`Python` • `SQL` • `Tableau` • `Pandas` • `NumPy`
 
 ---
 
 ### 🏪 Retail Business Performance & Inventory Risk Analysis
 
-End-to-end analytics project focused on retail sales performance, profitability, supplier performance, and inventory risk.
+End-to-end analytics project focused on retail sales performance, profitability analysis, supplier performance, and inventory optimization.
 
-**Workflow**
+#### 📌 Workflow
 
-* Cleaned and transformed retail sales and inventory data using Python
-* Used SQL to calculate KPIs and analyze sales, profit, returns, and inventory trends
-* Built Tableau dashboards to monitor business performance and inventory risk
+* Cleaned and transformed retail sales and inventory datasets using Python
+* Used SQL for KPI calculations, trend analysis, and business reporting
+* Built Tableau dashboards to monitor profitability, inventory risk, and store performance
 
-**Key Insights**
+#### 📈 Key Insights
 
 * Analyzed net sales, gross profit, gross margin %, returns, transactions, and quantity sold
-* Identified top-selling products, low-profitability products, and high-performing categories
-* Evaluated store and supplier performance
-* Detected fast-moving, slow-moving, stockout-risk, and overstock-risk products
+* Identified top-performing and low-profitability product categories
+* Evaluated supplier and store performance metrics
+* Detected slow-moving, overstock-risk, and stockout-risk inventory products
+* Delivered actionable business recommendations to improve inventory efficiency and profitability
 
-**Tools:** Python, SQL, Tableau, Pandas, NumPy
+#### 🛠️ Tools Used
+
+`Python` • `SQL` • `Tableau` • `Pandas` • `NumPy`
 
 ---
 
-## 📬 Get in Touch
+## 📬 Contact
 
 * 📧 Email: [adityapandey12391@gmail.com](mailto:adityapandey12391@gmail.com)
 * 💼 Open to Data Analyst and Business Analyst opportunities
