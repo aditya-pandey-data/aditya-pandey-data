@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya Pandey 👋</h1>
 
 <p align="center">
-  <b>Data & Business Analyst</b> | SQL • Python • R • Excel • Power BI • Tableau • Looker • Google Sheets
+  <b>Data & Business Analyst</b> | SQL • Python • Excel • Tableau • Power BI
 </p>
 
 ---
@@ -22,12 +22,13 @@
 
 | Category                   | Tools                       |
 | -------------------------- | --------------------------- |
-| 💻 Programming & Querying  | SQL, Python, R              |
-| 📊 BI & Visualization      | Tableau, Power BI, Looker   |
-| 📑 Spreadsheets            | Excel, Google Sheets        |
+| 💻 Programming & Querying  | SQL, Python                 |
+| 📊 BI & Visualization      | Tableau, Power BI           |
+| 📑 Spreadsheets            | Excel                       |
 | 🧠 Data Analysis & ML      | Pandas, NumPy, Scikit-learn |
 | 🗄️ Databases              | MySQL, PostgreSQL           |
 | 📉 Visualization Libraries | Matplotlib, Seaborn         |
+| 📚 Additional Knowledge    | R Basics                    |
 
 ---
 
