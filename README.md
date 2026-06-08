@@ -6,8 +6,6 @@
 
 SQL • Python • Tableau • Power BI • Excel • Google Sheets
 
-*Turning raw data into actionable business insights through analytics, visualization, and data-driven decision-making.*
-
 </div>
 
 ---
