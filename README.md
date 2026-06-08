@@ -2,7 +2,7 @@
 
 #  Hi, I'm Aditya Pandey 👋
 
-### Data & Business Analyst
+## Data & Business Analyst
 
 **SQL • Python • Tableau • Power BI • Excel • Google Sheets**
 
