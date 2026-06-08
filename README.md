@@ -1,19 +1,19 @@
-<h1 align="center">Hi, I'm Aditya Pandey 👋</h1>
+# Hi, I'm Aditya Pandey 👋
 
-<p align="center">
-  <b>Data & Business Analyst</b> | SQL • Python • Excel • Tableau • Power BI
-</p>
+### Data & Business Analyst | SQL • Python • Excel • Tableau • Power BI
+
+Transforming raw data into actionable business insights through analytics, visualization, and data-driven decision-making.
 
 ---
 
 ## 👨‍💻 About Me
 
 * 📊 Data & Business Analyst with a background in Physical Therapy and Retail
-* 🧹 Skilled in Python data cleaning, preprocessing, exploratory data analysis, and business insight generation
-* 🗄️ Experienced in SQL for querying, KPI analysis, and business reporting
-* 📈 Experienced in building interactive dashboards using Tableau and Power BI
-* 🤖 Currently strengthening my machine learning fundamentals, including regression, classification, A/B testing, and model evaluation
-* 🚀 Experienced in building end-to-end analytics projects from raw data to final dashboards
+* 🧹 Skilled in data cleaning, preprocessing, exploratory data analysis (EDA), and business insight generation
+* 🗄️ Experienced in SQL for KPI reporting, segmentation, trend analysis, and business intelligence
+* 📈 Build interactive dashboards using Tableau and Power BI
+* 🤖 Currently strengthening machine learning fundamentals, including regression, classification, A/B testing, and model evaluation
+* 🚀 Experienced in delivering end-to-end analytics projects from raw data to stakeholder-ready dashboards
 * 🌍 Open to Data Analyst and Business Analyst opportunities
 
 ---
@@ -34,55 +34,57 @@
 
 ## 📂 Featured Projects
 
+### 📊 Marketing Campaign Performance Analysis
+
+Business-focused marketing analytics project analyzing 166K+ campaign records across three beauty retail brands to identify profitability drivers, channel effectiveness, customer segment performance, and optimization opportunities.
+
+**Key Highlights**
+
+* Performed Excel-based data cleaning and feature engineering
+* Conducted SQL analysis across channels, campaign types, brands, and customer segments
+* Built Tableau dashboards for KPI tracking and performance monitoring
+* Identified high-performing audience-channel combinations and loss-making campaigns
+* Delivered actionable recommendations for budget allocation and campaign optimization
+
+**Tools:** Excel • MySQL • Tableau
+
+---
+
 ### 🔄 Customer Churn Analysis & Revenue Impact
 
-End-to-end analytics project focused on identifying customer churn drivers, high-risk customer segments, and revenue loss impact.
+End-to-end analytics project focused on identifying churn drivers, high-risk customer segments, and revenue loss impact.
 
-#### 📌 Workflow
+**Key Highlights**
 
-* Cleaned and preprocessed raw customer data using Python
+* Cleaned and transformed customer data using Python
 * Performed SQL analysis to identify churn patterns and revenue impact
-* Built Tableau dashboards to present business insights and recommendations
+* Built Tableau dashboards to visualize customer behavior and churn risk
+* Identified high-value customers at risk of churn and key churn drivers
+* Quantified revenue impact associated with customer attrition
 
-#### 📈 Key Insights
-
-* Identified month-to-month contract customers as a high churn-risk segment
-* Analyzed churn trends by internet type, age group, satisfaction score, and payment method
-* Measured revenue loss caused by churned customers
-* Identified high CLTV churned customers and major churn reasons
-* Highlighted business risk categories related to competitor offers, pricing, and customer service
-
-#### 🛠️ Tools Used
-
-`Python` • `SQL` • `Tableau` • `Pandas` • `NumPy`
+**Tools:** Python • SQL • Tableau • Pandas • NumPy
 
 ---
 
 ### 🏪 Retail Business Performance & Inventory Risk Analysis
 
-End-to-end analytics project focused on retail sales performance, profitability analysis, supplier performance, and inventory optimization.
+End-to-end analytics project focused on sales performance, profitability, supplier evaluation, and inventory optimization.
 
-#### 📌 Workflow
+**Key Highlights**
 
-* Cleaned and transformed retail sales and inventory datasets using Python
-* Used SQL for KPI calculations, trend analysis, and business reporting
-* Built Tableau dashboards to monitor profitability, inventory risk, and store performance
+* Analyzed sales, profit, returns, and inventory performance metrics
+* Evaluated supplier and store-level business performance
+* Identified slow-moving, overstock-risk, and stockout-risk products
+* Built Tableau dashboards to support inventory and profitability decisions
+* Delivered recommendations to improve operational efficiency
 
-#### 📈 Key Insights
-
-* Analyzed net sales, gross profit, gross margin %, returns, transactions, and quantity sold
-* Identified top-performing and low-profitability product categories
-* Evaluated supplier and store performance metrics
-* Detected slow-moving, overstock-risk, and stockout-risk inventory products
-* Delivered actionable business recommendations to improve inventory efficiency and profitability
-
-#### 🛠️ Tools Used
-
-`Python` • `SQL` • `Tableau` • `Pandas` • `NumPy`
+**Tools:** Python • SQL • Tableau • Pandas • NumPy
 
 ---
 
 ## 📬 Contact
 
-* 📧 Email: [adityapandey12391@gmail.com](mailto:adityapandey12391@gmail.com)
-* 💼 Open to Data Analyst and Business Analyst opportunities
+📧 Email: [adityapandey12391@gmail.com](mailto:adityapandey12391@gmail.com)
+
+💼 Open to Data Analyst and Business Analyst opportunities
+
