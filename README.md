@@ -38,6 +38,22 @@ SQL • Python • Tableau • Power BI • Excel • Google Sheets
 
 ## 📂 Featured Projects
 
+### 🏪 Retail Business Performance & Inventory Risk Analysis
+
+End-to-end analytics project focused on sales performance, profitability, supplier evaluation, and inventory optimization.
+
+**Key Highlights**
+
+* Analyzed sales, profit, returns, and inventory performance metrics
+* Evaluated supplier and store-level business performance
+* Identified slow-moving, overstock-risk, and stockout-risk products
+* Built Tableau dashboards to support inventory and profitability decisions
+* Delivered recommendations to improve operational efficiency
+
+**Tools:** Python • SQL • Tableau • Pandas • NumPy
+
+---
+
 ### 📊 Marketing Campaign Performance Analysis
 
 Business-focused marketing analytics project analyzing 166K+ campaign records across three beauty retail brands to identify profitability drivers, channel effectiveness, customer segment performance, and optimization opportunities.
@@ -65,22 +81,6 @@ End-to-end analytics project focused on identifying churn drivers, high-risk cus
 * Built Tableau dashboards to visualize customer behavior and churn risk
 * Identified high-value customers at risk of churn and key churn drivers
 * Quantified revenue impact associated with customer attrition
-
-**Tools:** Python • SQL • Tableau • Pandas • NumPy
-
----
-
-### 🏪 Retail Business Performance & Inventory Risk Analysis
-
-End-to-end analytics project focused on sales performance, profitability, supplier evaluation, and inventory optimization.
-
-**Key Highlights**
-
-* Analyzed sales, profit, returns, and inventory performance metrics
-* Evaluated supplier and store-level business performance
-* Identified slow-moving, overstock-risk, and stockout-risk products
-* Built Tableau dashboards to support inventory and profitability decisions
-* Delivered recommendations to improve operational efficiency
 
 **Tools:** Python • SQL • Tableau • Pandas • NumPy
 
