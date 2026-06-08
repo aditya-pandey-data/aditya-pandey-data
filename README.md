@@ -1,11 +1,12 @@
 <div align="center">
 
-#  Hi, I'm Aditya Pandey 👋
+# Hi, I'm Aditya Pandey
 
-## Data & Business Analyst
+### Data & Business Analyst
 
-**SQL • Python • Tableau • Power BI • Excel • Google Sheets**
+SQL • Python • Tableau • Power BI • Excel • Google Sheets
 
+*Turning raw data into actionable business insights through analytics, visualization, and data-driven decision-making.*
 
 </div>
 
