@@ -51,7 +51,7 @@ End-to-end analytics project focused on identifying churn drivers, high-risk cus
 * Identified high-value customers at risk of churn and key churn drivers
 * Quantified revenue impact associated with customer attrition
 
-**Tools:** Python • SQL • Tableau • Pandas • NumPy
+**Tools:** Python • SQL • Tableau • Pandas 
 
 ---
 
