@@ -39,6 +39,22 @@ SQL • Python • Tableau • Power BI • Excel • Google Sheets
 ## 📂 Featured Projects
 
 
+### 🔄 Customer Churn Analysis & Revenue Impact Modelling
+
+End-to-end analytics project focused on identifying churn drivers, high-risk customer segments, and revenue loss impact.
+
+**Key Highlights**
+
+* Cleaned and transformed customer data using Python
+* Performed SQL analysis to identify churn patterns and revenue impact
+* Built Tableau dashboards to visualize customer behavior and churn risk
+* Identified high-value customers at risk of churn and key churn drivers
+* Quantified revenue impact associated with customer attrition
+
+**Tools:** Python • SQL • Tableau • Pandas • NumPy
+
+---
+
 ### 📊 Marketing Campaign Performance Analysis
 
 Business-focused marketing analytics project analyzing 166K+ campaign records across three beauty retail brands to identify profitability drivers, channel effectiveness, customer segment performance, and optimization opportunities.
@@ -66,22 +82,6 @@ End-to-end analytics project focused on sales performance, profitability, suppli
 * Identified slow-moving, overstock-risk, and stockout-risk products
 * Built Tableau dashboards to support inventory and profitability decisions
 * Delivered recommendations to improve operational efficiency
-
-**Tools:** Python • SQL • Tableau • Pandas • NumPy
-
----
-
-### 🔄 Customer Churn Analysis & Revenue Impact
-
-End-to-end analytics project focused on identifying churn drivers, high-risk customer segments, and revenue loss impact.
-
-**Key Highlights**
-
-* Cleaned and transformed customer data using Python
-* Performed SQL analysis to identify churn patterns and revenue impact
-* Built Tableau dashboards to visualize customer behavior and churn risk
-* Identified high-value customers at risk of churn and key churn drivers
-* Quantified revenue impact associated with customer attrition
 
 **Tools:** Python • SQL • Tableau • Pandas • NumPy
 
