@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi, I'm Aditya Pandey
+# 👋 Hi, I'm Aditya Pandey 
 
 ### Data & Business Analyst
 
