@@ -91,5 +91,5 @@ End-to-end analytics project focused on sales performance, profitability, suppli
 
 📧 Email: [adityapandey12391@gmail.com](mailto:adityapandey12391@gmail.com)
 
-💼 Open to Data Analyst and Business Analyst opportunities
+💼 Open to Data Analyst and Business Intelligence Analyst opportunities
 
