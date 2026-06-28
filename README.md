@@ -42,7 +42,7 @@ I enjoy translating complex data into meaningful insights that improve business 
 | 🗄️ **Databases** | MySQL • PostgreSQL • SQLite |
 | 📈 **Data Visualization** | Plotly • Matplotlib |
 | ⚙️ **Development** | Streamlit • Git • GitHub |
-| 📑 **Productivity** | Microsoft Excel • Google 
+| 📑 **Productivity** | Microsoft Excel • Google Sheets|
 
 ---
 
@@ -189,4 +189,3 @@ If you enjoyed exploring my projects or found them useful, consider giving them 
 I'm always open to collaborating on data analytics, business intelligence, and data-driven projects.
 
 </div>
-Sheets |
