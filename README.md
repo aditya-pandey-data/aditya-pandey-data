@@ -34,40 +34,15 @@ I enjoy translating complex data into meaningful insights that improve business 
 
 # 🛠️ Technical Skills
 
-### 💻 Programming & Analytics
+| Category                       | Technologies                                 |
+| ------------------------------ | -------------------------------------------- |
+| 💻 **Programming & Analytics** | SQL • Python • Pandas • NumPy • Scikit-learn |
+| 📊 **Business Intelligence**   | Tableau • Power BI                           |
+| 🗄️ **Databases**              | MySQL • PostgreSQL • SQLite                  |
+| 📈 **Data Visualization**      | Plotly • Matplotlib                          |
+| ⚙️ **Development**             | Streamlit • Git • GitHub                     |
+| 📑 **Productivity**            | Microsoft Excel • Google Sheets              |
 
-* SQL
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-
-### 📊 Business Intelligence
-
-* Tableau
-* Power BI
-
-### 🗄️ Databases
-
-* MySQL
-* PostgreSQL
-* SQLite
-
-### 📈 Data Visualization
-
-* Plotly
-* Matplotlib
-
-### ⚙️ Development
-
-* Streamlit
-* Git
-* GitHub
-
-### 📑 Productivity
-
-* Microsoft Excel
-* Google Sheets
 
 ---
 
