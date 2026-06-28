@@ -1,10 +1,14 @@
+<div align="center">
+
 # 👋 Hi, I'm Aditya Pandey
 
-# 📊 Data Analyst | Business Analyst | Business Intelligence Analyst
+## 📊 Data Analyst | Business Analyst | Business Intelligence Analyst
 
-### **Transforming data into actionable insights that drive smarter business decisions.**
+### Transforming data into actionable insights that drive smarter business decisions.
 
----
+</div>
+
+<br>
 
 # 💼 About Me
 
