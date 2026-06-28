@@ -1,95 +1,202 @@
-<div align="center">
+# 👋 Hi, I'm Aditya Pandey
 
-# 👋 Hi, I'm Aditya Pandey 
+# 📊 Data Analyst | Business Analyst | Business Intelligence Analyst
 
-###             Data & Business Intelligence Analyst
-
-SQL • Python • Tableau • Power BI • Excel • Google Sheets
-
-</div>
+### **Transforming data into actionable insights that drive smarter business decisions.**
 
 ---
 
-## 👨‍💻 About Me
+# 💼 About Me
 
-* 📊 Data & Business Analyst with a background in Physical Therapy and Retail
-* 🧹 Skilled in data cleaning, preprocessing, exploratory data analysis (EDA), and business insight generation
-* 🗄️ Experienced in SQL for KPI reporting, segmentation, trend analysis, and business intelligence
-* 📈 Build interactive dashboards using Tableau and Power BI
-* 🤖 Currently strengthening machine learning fundamentals, including regression, classification, A/B testing, and model evaluation
-* 🚀 Experienced in delivering end-to-end analytics projects from raw data to stakeholder-ready dashboards
-* 🌍 Open to Data Analyst and Business Analyst opportunities
+I'm a **Data Analyst**, **Business Analyst**, and **Business Intelligence Analyst** passionate about solving real-world business problems through data. I build end-to-end analytics solutions using **SQL, Python, Excel, Tableau, and Power BI** to transform raw data into actionable insights, interactive dashboards, and business recommendations.
+
+My portfolio demonstrates the complete analytics lifecycle—from **data cleaning, exploratory data analysis (EDA), SQL analytics, dashboard development, and business intelligence reporting** to **predictive modelling and AI-assisted analytics** using real-world datasets across customer analytics, marketing, retail, finance, and business operations.
+
+I enjoy translating complex data into meaningful insights that improve business performance, optimise processes, reduce operational inefficiencies, and support strategic decision-making.
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🚀 What I Do
 
-| Category                   | Tools                       |
-| -------------------------- | --------------------------- |
-| 💻 Programming & Querying  | SQL, Python                 |
-| 📊 BI & Visualization      | Tableau, Power BI           |
-| 📑 Spreadsheets            | Excel                       |
-| 🧠 Data Analysis & ML      | Pandas, NumPy, Scikit-learn |
-| 🗄️ Databases              | MySQL, PostgreSQL           |
-| 📉 Visualization Libraries | Matplotlib, Seaborn         |
-| 📚 Additional Knowledge    | R Basics                    |
+* 📊 Analyse complex datasets to uncover actionable business insights
+* 🗄️ Write efficient SQL queries for reporting, KPI tracking, and business intelligence
+* 🧹 Clean, transform, and analyse data using Python and Excel
+* 📈 Build interactive dashboards with Tableau and Power BI
+* 🤖 Apply predictive analytics and foundational machine learning techniques to solve business problems
+* 💡 Deliver business recommendations backed by data
+* ⚡ Build AI-powered analytics applications that automate reporting and business insights
 
 ---
 
-## 📂 Featured Projects
+# 🛠️ Technical Skills
 
+### 💻 Programming & Analytics
 
-### 🔄 Customer Churn Analysis & Revenue Impact Modelling
+* SQL
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
 
-End-to-end analytics project focused on identifying churn drivers, high-risk customer segments, and revenue loss impact.
+### 📊 Business Intelligence
 
-**Key Highlights**
+* Tableau
+* Power BI
 
-* Cleaned and transformed customer data using Python
-* Performed SQL analysis to identify churn patterns and revenue impact
-* Built Tableau dashboards to visualize customer behavior and churn risk
-* Identified high-value customers at risk of churn and key churn drivers
-* Quantified revenue impact associated with customer attrition
+### 🗄️ Databases
 
-**Tools:** Python • SQL • Tableau • Pandas 
+* MySQL
+* PostgreSQL
+* SQLite
 
----
+### 📈 Data Visualization
 
-### 📊 Marketing Campaign Performance Analysis
+* Plotly
+* Matplotlib
 
-Business-focused marketing analytics project analyzing 166K+ campaign records across three beauty retail brands to identify profitability drivers, channel effectiveness, customer segment performance, and optimization opportunities.
+### ⚙️ Development
 
-**Key Highlights**
+* Streamlit
+* Git
+* GitHub
 
-* Performed Excel-based data cleaning and feature engineering
-* Conducted SQL analysis across channels, campaign types, brands, and customer segments
-* Built Tableau dashboards for KPI tracking and performance monitoring
-* Identified high-performing audience-channel combinations and loss-making campaigns
-* Delivered actionable recommendations for budget allocation and campaign optimization
+### 📑 Productivity
 
-**Tools:** Excel • MySQL • Tableau
-
----
-
-### 🏪 Retail Business Performance & Inventory Risk Analysis
-
-End-to-end analytics project focused on sales performance, profitability, supplier evaluation, and inventory optimization.
-
-**Key Highlights**
-
-* Analyzed sales, profit, returns, and inventory performance metrics
-* Evaluated supplier and store-level business performance
-* Identified slow-moving, overstock-risk, and stockout-risk products
-* Built Tableau dashboards to support inventory and profitability decisions
-* Delivered recommendations to improve operational efficiency
-
-**Tools:** Python • SQL • Tableau • Pandas • NumPy
+* Microsoft Excel
+* Google Sheets
 
 ---
 
-## 📬 Contact
+# 📂 Featured Analytics Portfolio
 
-📧 Email: [adityapandey12391@gmail.com](mailto:adityapandey12391@gmail.com)
+*A collection of end-to-end analytics projects demonstrating SQL, Python, Business Intelligence, predictive analytics, and AI applications to solve real-world business problems.*
 
-💼 Open to Data Analyst and Business Intelligence Analyst opportunities
+---
 
+## 💳 Credit Risk Analysis & Loan Default Prediction
+
+Developed an end-to-end predictive analytics solution using **32,409 loan applications** to identify high-risk borrowers, optimise lending strategies, and support risk-based decision-making with a projected **$47.4M reduction in expected annual loan losses**.
+
+**Business Value**
+
+* 📌 Identified high-risk borrowers using predictive modelling
+* 📌 Supported risk-based lending and pricing strategies
+* 📌 Reduced financial risk through customer risk segmentation
+* 📌 Enabled data-driven lending decisions with executive dashboards
+
+**Tech Stack:** `Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Tableau`
+
+---
+
+## 📉 Customer Churn Analysis & Revenue Impact
+
+Developed a customer analytics solution to identify churn drivers, quantify revenue at risk, and prioritise high-value customers for targeted retention strategies—helping businesses improve customer lifetime value and reduce customer attrition.
+
+**Business Value**
+
+* 📌 Identified key drivers influencing customer churn
+* 📌 Segmented high-value customers based on churn risk
+* 📌 Quantified potential revenue loss from customer attrition
+* 📌 Recommended targeted retention strategies to improve customer loyalty
+
+**Tech Stack:** `SQL` • `Python` • `Tableau`
+
+---
+
+## 🤖 AI Business Report Generator
+
+Developed an AI-powered analytics platform that transforms raw datasets into automated SQL insights, interactive dashboards, AI-generated business recommendations, and stakeholder-ready PDF reports—helping organisations reduce reporting time and accelerate data-driven decision-making.
+
+**Business Value**
+
+* 📌 Automated business reporting workflows
+* 📌 Reduced manual analysis through AI-assisted insights
+* 📌 Generated stakeholder-ready PDF reports within seconds
+* 📌 Enabled faster business decisions using automated SQL analytics
+
+**Tech Stack:** `Python` • `Streamlit` • `SQL` • `SQLite` • `Plotly` • `Groq API` • `FPDF`
+
+---
+
+## 📊 Marketing Campaign Performance Analysis
+
+Analysed **166,000+ marketing campaign records** across multiple brands to identify profitable customer segments, optimise marketing spend, and improve campaign ROI through data-driven recommendations.
+
+**Business Value**
+
+* 📌 Identified high-performing customer segments and marketing channels
+* 📌 Improved marketing budget allocation using campaign performance insights
+* 📌 Highlighted underperforming campaigns to reduce unnecessary spending
+* 📌 Supported future marketing strategy through KPI dashboards
+
+**Tech Stack:** `SQL` • `Excel` • `Tableau`
+
+---
+
+## 🏪 Retail Business Performance & Inventory Analytics
+
+Analysed retail sales, profitability, supplier performance, and inventory health to identify operational inefficiencies, reduce inventory risk, and support data-driven inventory and profitability decisions.
+
+**Business Value**
+
+* 📌 Identified slow-moving, overstocked, and stockout-risk inventory
+* 📌 Evaluated supplier and store performance using business KPIs
+* 📌 Recommended inventory optimisation strategies to improve profitability
+* 📌 Supported operational decision-making through interactive dashboards
+
+**Tech Stack:** `SQL` • `Python` • `Tableau`
+
+---
+
+# 🌱 Building Expertise In
+
+* Predictive Modelling
+* Forecasting
+* Classification & Regression
+* Risk Modelling
+* Customer Segmentation
+* Time Series Forecasting
+* Recommendation Systems
+* Anomaly Detection
+* Causal Inference
+* Decision Analytics
+
+---
+
+# 🎯 Areas of Interest
+
+* Data Analytics
+* Business Analytics
+* Business Intelligence
+* Predictive Analytics
+* Machine Learning
+* Customer Analytics
+* Marketing Analytics
+* Financial Analytics
+* Retail Analytics
+* Dashboard Development
+* AI-Powered Analytics
+* Data Storytelling
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email**
+**[adityapandey12391@gmail.com](mailto:adityapandey12391@gmail.com)**
+
+💼 **LinkedIn**
+**https://linkedin.com/in/aditya-pandey-analytics**
+
+💻 **GitHub**
+**https://github.com/aditya-pandey-data**
+
+---
+
+## 💡 My Philosophy
+
+> **"Great analytics isn't just about analysing data—it's about solving business problems, supporting better decisions, and creating measurable business impact."**
+
+---
+
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories, and if you find them valuable, consider giving them a ⭐.**
