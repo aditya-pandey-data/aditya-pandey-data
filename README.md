@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Aditya Pandey
 
-## 📊 Data Analyst | Business Analyst | Business Intelligence Analyst
+## 📊 Data Analyst | Business Analyst
 
 ### Transforming data into actionable insights that drive smarter business decisions.
 
@@ -13,7 +13,7 @@
 
 <h2>💼 About Me</h2>
 
-I'm a **Data Analyst**, **Business Analyst**, and **Business Intelligence Analyst** passionate about transforming data into actionable insights that solve real-world business problems. I build end-to-end analytics solutions using **SQL, Python, Excel, Tableau, and Power BI** to analyse data, develop interactive dashboards, and deliver business recommendations that support strategic decision-making.
+I'm a **Data Analyst** and **Business Analyst** passionate about transforming data into actionable insights that solve real-world business problems. I build end-to-end analytics solutions using **SQL, Python, Excel, Tableau, and Power BI** to analyse data, develop interactive dashboards, and deliver business recommendations that support strategic decision-making.
 
 My portfolio demonstrates the complete analytics lifecycle—from **data cleaning, exploratory data analysis (EDA), SQL analytics, dashboard development, and business intelligence reporting** to **predictive modelling and AI-assisted analytics** using real-world datasets across customer analytics, marketing, retail, finance, and business operations.
 
