@@ -22,39 +22,17 @@ I transform complex datasets into **actionable business insights** using SQL, Py
 
 ---
 
-## 📈 My Analytics Approach
-
-```mermaid
-graph LR
-    A["📥 Raw Data"] --> B["🔍 Exploration<br/>& Cleaning"]
-    B --> C["📊 Analysis<br/>& Modelling"]
-    C --> D["📈 Visualization<br/>& Dashboards"]
-    D --> E["💡 Insights &<br/>Recommendations"]
-    E --> F["🎯 Business<br/>Impact"]
-    
-    style A fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
-    style B fill:#e8f5e9,stroke:#388e3c,stroke-width:2px
-    style C fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
-    style D fill:#fff3e0,stroke:#f57c00,stroke-width:2px
-    style E fill:#fce4ec,stroke:#c2185b,stroke-width:2px
-    style F fill:#e0f2f1,stroke:#00897b,stroke-width:2px
-```
-
----
-
 ## 🚀 What I Do
 
 <details open>
-<summary><strong>👇 Click to explore my core capabilities</strong></summary>
+<summary><strong>Click to explore my core capabilities</strong></summary>
 
-| Capability | What It Means |
-|-----------|--------------|
-| 📊 **Data Exploration & Analytics** | Uncover patterns, trends, and anomalies in complex datasets using SQL and Python |
-| 🗄️ **SQL Solutions** | Design robust queries for reporting, KPI tracking, and data warehouse analytics |
-| 📈 **Dashboard Design** | Create interactive, user-focused dashboards (Tableau, Power BI) that drive decision-making |
-| 🤖 **Predictive Analytics** | Build ML models for forecasting, classification, and risk assessment |
-| ⚡ **Automation** | Develop AI-powered workflows that reduce manual effort and accelerate insights |
-| 💡 **Storytelling** | Translate complex findings into clear, actionable business recommendations |
+- 📊 **Data Exploration & Analytics** — Uncover patterns and trends in complex datasets
+- 🗄️ **SQL Solutions** — Build robust queries for reporting, KPI tracking, and business intelligence
+- 📈 **Dashboard Design** — Create interactive dashboards (Tableau, Power BI) that drive decision-making
+- 🤖 **Predictive Analytics** — Apply machine learning to forecast outcomes and identify risks
+- ⚡ **Automation** — Build AI-powered workflows that reduce manual reporting effort
+- 💡 **Storytelling** — Translate findings into clear, actionable business recommendations
 
 </details>
 
@@ -62,137 +40,91 @@ graph LR
 
 ## 🛠️ Technical Stack
 
-<table align="center">
-<tr>
-<td width="20%"><strong>Languages</strong><br/>🐍 Python<br/>🗄️ SQL</td>
-<td width="20%"><strong>Data Tools</strong><br/>🐼 Pandas<br/>🔢 NumPy<br/>📚 Scikit-learn</td>
-<td width="20%"><strong>BI & Viz</strong><br/>📊 Tableau<br/>📈 Power BI<br/>🎨 Plotly</td>
-<td width="20%"><strong>Platforms</strong><br/>⚙️ Streamlit<br/>💾 SQL DBs<br/>🤖 Groq API</td>
-<td width="20%"><strong>Tools</strong><br/>📑 Excel<br/>🔗 Git<br/>📝 GitHub</td>
-</tr>
-</table>
+| Category | Skills |
+|----------|--------|
+| 🐍 **Languages** | SQL • Python (Pandas, NumPy, Scikit-learn) |
+| 📊 **BI Tools** | Tableau • Power BI |
+| 🗄️ **Databases** | MySQL • PostgreSQL • SQLite |
+| 📈 **Visualisation** | Plotly • Matplotlib |
+| ⚙️ **Platforms** | Streamlit • Git • GitHub • Excel |
+| 🤖 **ML/AI** | Scikit-learn • Groq API • LLM Integration |
 
 ---
 
 ## 📂 Featured Projects
 
-All projects are hosted on **[GitHub](https://github.com/aditya-pandey-data)** with complete code, analysis, and documentation.
+All projects are hosted on **[GitHub](https://github.com/aditya-pandey-data)** with complete code and documentation.
 
-<table>
-<tr>
-<td width="50%">
+<details>
+<summary><strong>💳 Credit Risk Analysis & Loan Default Prediction</strong></summary>
 
-### 💳 Credit Risk & Loan Default Prediction
+Predictive model identifying high-risk borrowers across **32,409 loan applications**.
 
-**Predictive model** identifying high-risk borrowers across **32,409 applications**
+**📊 Impact:** $47.4M projected reduction in annual loan losses
 
-**📊 Business Impact:**
-- 💰 $47.4M projected annual loss reduction
-- 🎯 Risk-based lending strategy
-- 📉 Improved approval accuracy
-
-**Stack:** Python • Scikit-learn • Tableau
+**🔧 Stack:** Python • Scikit-learn • Tableau
 
 [View Project →](https://github.com/aditya-pandey-data)
 
-</td>
-<td width="50%">
+</details>
 
-### 📉 Customer Churn Analysis
+<details>
+<summary><strong>📉 Customer Churn Analysis & Revenue Impact</strong></summary>
 
-**Customer analytics solution** identifying churn drivers and revenue at risk
+Identified churn drivers and quantified revenue at risk. Prioritised high-value customers for targeted retention.
 
-**📊 Business Impact:**
-- 👥 High-value customer segmentation
-- 📈 Revenue protection strategies
-- 🎯 Targeted retention programs
+**📊 Impact:** Enabled proactive retention strategies for high-lifetime-value customers
 
-**Stack:** SQL • Python • Tableau
+**🔧 Stack:** SQL • Python • Tableau
 
 [View Project →](https://github.com/aditya-pandey-data)
 
-</td>
-</tr>
+</details>
 
-<tr>
-<td width="50%">
+<details>
+<summary><strong>🤖 AI-Powered Business Report Generator</strong></summary>
 
-### 🤖 AI-Powered Business Report Generator
+Full-stack automation platform transforming raw datasets into SQL insights, AI analysis, and stakeholder-ready PDF reports in seconds.
 
-**Full-stack platform** transforming data → SQL insights → AI analysis → PDF reports
+**📊 Impact:** Reduced manual reporting effort by automating end-to-end analysis
 
-**📊 Business Impact:**
-- ⚡ Automated end-to-end analysis
-- 📄 Stakeholder-ready reports in seconds
-- 🚀 Accelerated decision-making
-
-**Stack:** Python • Streamlit • Groq API • SQLite • Plotly
+**🔧 Stack:** Python • Streamlit • Groq API • SQLite • Plotly
 
 [View Project →](https://github.com/aditya-pandey-data)
 
-</td>
-<td width="50%">
+</details>
 
-### 📊 Marketing Campaign Performance
+<details>
+<summary><strong>📊 Marketing Campaign Performance Analysis</strong></summary>
 
-**Campaign analysis** on **166,000+ records** to optimise spend and ROI
+Analysed **166,000+ records** to optimise spend allocation, identify high-ROI segments, and reduce wasted marketing budget.
 
-**📊 Business Impact:**
-- 🎯 High-ROI segment identification
-- 💵 Optimised budget allocation
-- 📈 Campaign performance visibility
+**📊 Impact:** Improved budget allocation through data-driven segment analysis
 
-**Stack:** SQL • Python • Excel • Tableau
+**🔧 Stack:** SQL • Python • Excel • Tableau
 
 [View Project →](https://github.com/aditya-pandey-data)
 
-</td>
-</tr>
+</details>
 
-<tr>
-<td colspan="2">
+<details>
+<summary><strong>🏪 Retail Business & Inventory Analytics</strong></summary>
 
-### 🏪 Retail Business & Inventory Analytics
+Evaluated sales performance, supplier efficiency, and inventory health. Recommended strategies to optimise inventory and improve profitability.
 
-**Retail analytics solution** evaluating sales, supplier efficiency, and inventory health
+**📊 Impact:** Identified slow-moving stock and stockout risks to support operational efficiency
 
-**📊 Business Impact:**
-- 📦 Inventory optimisation strategy
-- 🔄 Supplier performance insights
-- 💼 Profitability improvements
-
-**Stack:** SQL • Python • Tableau
+**🔧 Stack:** SQL • Python • Tableau
 
 [View Project →](https://github.com/aditya-pandey-data)
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
 ## 📈 Analytical Expertise
 
-<details open>
-<summary><strong>📚 Methods & Domains</strong></summary>
-
-**Statistical & Predictive Methods**
-- Classification & Regression
-- Time Series Forecasting
-- Customer Segmentation
-- Anomaly Detection
-- Risk Modelling
-- Causal Inference
-
-**Business Analytics**
-- Customer Analytics
-- Financial Analytics
-- Marketing Analytics
-- Retail Operations
-- Dashboard Development
-- KPI Reporting
-
-</details>
+**Predictive Modelling** • Classification & Regression • Customer Segmentation • Risk Analysis • Time Series Forecasting • Anomaly Detection • Customer Analytics • Financial Analytics • Marketing Analytics • Retail Operations • Dashboard Development
 
 ---
 
@@ -202,28 +134,12 @@ All projects are hosted on **[GitHub](https://github.com/aditya-pandey-data)** w
 
 ---
 
-## 📊 Quick Stats
-
-```
-Projects Built:        5 end-to-end analytics solutions
-Datasets Analysed:     500K+ records across domains
-Models Deployed:       Predictive risk & churn models
-Dashboards Created:    15+ interactive BI dashboards
-Code Repositories:     github.com/aditya-pandey-data
-```
-
----
-
 <div align="center">
 
 ### ⭐ Found value in my work?
 
 A star helps others discover these projects. Always open to data-driven collaboration and discussion.
 
-**[Explore My Portfolio →](https://github.com/aditya-pandey-data)**
-
----
-
-*Last updated: June 2026*
+**[Explore My Projects →](https://github.com/aditya-pandey-data)**
 
 </div>
