@@ -1,145 +1,77 @@
 <div align="center">
-
-# 👋 Hi, I'm Aditya Pandey
-
-## 📊 Data Analyst | Business Analyst
-
-**Raw Data. Clear Insights. Smart Decisions.**
-
----
-
-### 🎯 Currently exploring Data Analyst & Business Analyst roles • Open to recruiters
-
-[📧 Email](mailto:adityapandey12391@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/aditya-pandey-analytics) • [💻 GitHub](https://github.com/aditya-pandey-data)
-
+👋 Hi, I'm Aditya Pandey
+📊 Data Analyst | Business Intelligence
+Raw Data. Clear Insights. Smart Decisions.
 </div>
 
----
+💼 About Me
+I transform complex datasets into actionable business insights using SQL, Python, Tableau, and Power BI. My work spans the full analytics lifecycle—from data exploration and SQL analytics to predictive modelling and AI-powered reporting—helping organisations make confident, data-driven decisions.
+Currently exploring Data Analyst, Business Analyst, and Business Intelligence roles across the UK and beyond. Open to recruiters. 🎯
 
-## 💼 About Me
+🚀 What I Do
 
-I transform complex datasets into **actionable business insights** using SQL, Python, Tableau, and Power BI. My work spans the full analytics lifecycle—from data exploration and SQL analytics to predictive modelling and AI-powered reporting—helping organisations make confident, data-driven decisions.
+📊 Uncover hidden patterns in complex datasets
+🗄️ Build SQL solutions for reporting, KPI tracking, and analytics
+📈 Design interactive dashboards (Tableau, Power BI)
+🤖 Apply predictive analytics and machine learning to business problems
+⚡ Automate analytics workflows with Python and AI
+💡 Translate findings into actionable business recommendations
 
----
 
-## 🚀 What I Do
+🛠️ Technical Stack
+Languages & Tools — SQL • Python • Pandas • NumPy • Scikit-learn
 
-<details open>
-<summary><strong>Click to explore my core capabilities</strong></summary>
+Dashboards — Tableau • Power BI
 
-- 📊 **Data Exploration & Analytics** — Uncover patterns and trends in complex datasets
-- 🗄️ **SQL Solutions** — Build robust queries for reporting, KPI tracking, and business intelligence
-- 📈 **Dashboard Design** — Create interactive dashboards (Tableau, Power BI) that drive decision-making
-- 🤖 **Predictive Analytics** — Apply machine learning to forecast outcomes and identify risks
-- ⚡ **Automation** — Build AI-powered workflows that reduce manual reporting effort
-- 💡 **Storytelling** — Translate findings into clear, actionable business recommendations
+Databases — MySQL • PostgreSQL • SQLite
 
-</details>
+Visualisation — Plotly • Matplotlib
 
----
+Platforms — Streamlit • Excel • Git • GitHub
 
-## 🛠️ Technical Stack
+📂 Portfolio Projects
+All projects live on GitHub with full code and analysis.
+💳 Credit Risk Analysis & Loan Default Prediction
+Predictive model identifying high-risk borrowers across 32,409 loan applications. Projected impact: $47.4M reduction in annual loan losses.
 
-| Category | Skills |
-|----------|--------|
-| 🐍 **Languages** | SQL • Python (Pandas, NumPy, Scikit-learn) |
-| 📊 **BI Tools** | Tableau • Power BI |
-| 🗄️ **Databases** | MySQL • PostgreSQL • SQLite |
-| 📈 **Visualisation** | Plotly • Matplotlib |
-| ⚙️ **Platforms** | Streamlit • Git • GitHub • Excel |
-| 🤖 **ML/AI** | Scikit-learn • Groq API • LLM Integration |
+Scikit-learn risk segmentation | Tableau executive dashboards | Python
 
----
+📉 Customer Churn Analysis
+Identified churn drivers and quantified revenue at risk. Prioritised high-value retention targets.
 
-## 📂 Featured Projects
+SQL analytics | Python segmentation | Tableau dashboards
 
-All projects are hosted on **[GitHub](https://github.com/aditya-pandey-data)** with complete code and documentation.
+🤖 AI-Powered Business Report Generator
+Full-stack automation platform: raw data → SQL insights → AI analysis → PDF reports in seconds.
 
-<details>
-<summary><strong>💳 Credit Risk Analysis & Loan Default Prediction</strong></summary>
+Python + Streamlit | Groq LLM API | SQLite | Plotly
 
-Predictive model identifying high-risk borrowers across **32,409 loan applications**.
+📊 Marketing Campaign Performance
+Analysed 166,000+ records to optimise spend allocation and identify high-ROI segments.
 
-**📊 Impact:** $47.4M projected reduction in annual loan losses
+SQL + Python | Excel analytics | Tableau reporting
 
-**🔧 Stack:** Python • Scikit-learn • Tableau
+🏪 Retail Business & Inventory Analytics
+Evaluated sales performance, supplier efficiency, and inventory health. Recommended optimisation strategies.
 
-[View Project →](https://github.com/aditya-pandey-data)
+SQL + Python | Tableau dashboards | KPI reporting
 
-</details>
 
-<details>
-<summary><strong>📉 Customer Churn Analysis & Revenue Impact</strong></summary>
+🌱 Expertise & Interests
+Analytical Methods
 
-Identified churn drivers and quantified revenue at risk. Prioritised high-value customers for targeted retention.
+Predictive modelling • Classification & regression • Customer segmentation • Risk analysis • Time series forecasting • Anomaly detection
+Business Domains
 
-**📊 Impact:** Enabled proactive retention strategies for high-lifetime-value customers
+Customer analytics • Financial analytics • Marketing analytics • Retail operations • Business intelligence
 
-**🔧 Stack:** SQL • Python • Tableau
+📫 Connect
+📧 Email — adityapandey12391@gmail.com
 
-[View Project →](https://github.com/aditya-pandey-data)
+💼 LinkedIn — aditya-pandey-analytics
 
-</details>
-
-<details>
-<summary><strong>🤖 AI-Powered Business Report Generator</strong></summary>
-
-Full-stack automation platform transforming raw datasets into SQL insights, AI analysis, and stakeholder-ready PDF reports in seconds.
-
-**📊 Impact:** Reduced manual reporting effort by automating end-to-end analysis
-
-**🔧 Stack:** Python • Streamlit • Groq API • SQLite • Plotly
-
-[View Project →](https://github.com/aditya-pandey-data)
-
-</details>
-
-<details>
-<summary><strong>📊 Marketing Campaign Performance Analysis</strong></summary>
-
-Analysed **166,000+ records** to optimise spend allocation, identify high-ROI segments, and reduce wasted marketing budget.
-
-**📊 Impact:** Improved budget allocation through data-driven segment analysis
-
-**🔧 Stack:** SQL • Python • Excel • Tableau
-
-[View Project →](https://github.com/aditya-pandey-data)
-
-</details>
-
-<details>
-<summary><strong>🏪 Retail Business & Inventory Analytics</strong></summary>
-
-Evaluated sales performance, supplier efficiency, and inventory health. Recommended strategies to optimise inventory and improve profitability.
-
-**📊 Impact:** Identified slow-moving stock and stockout risks to support operational efficiency
-
-**🔧 Stack:** SQL • Python • Tableau
-
-[View Project →](https://github.com/aditya-pandey-data)
-
-</details>
-
----
-
-## 📈 Analytical Expertise
-
-**Predictive Modelling** • Classification & Regression • Customer Segmentation • Risk Analysis • Time Series Forecasting • Anomaly Detection • Customer Analytics • Financial Analytics • Marketing Analytics • Retail Operations • Dashboard Development
-
----
-
-## 💡 Philosophy
-
-> "Great analytics isn't just about analysing data—it's about asking the right questions, uncovering meaningful insights, and enabling smarter decisions that create measurable impact."
-
----
+💻 GitHub — aditya-pandey-data
 
 <div align="center">
-
-### ⭐ Found value in my work?
-
-A star helps others discover these projects. Always open to data-driven collaboration and discussion.
-
-**[Explore My Projects →](https://github.com/aditya-pandey-data)**
-
+⭐ If my work caught your eye, a star helps others find it. Always open to data-driven collaboration.
 </div>
